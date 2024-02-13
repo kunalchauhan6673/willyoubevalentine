@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F8C8DC;
+}
+
+.header_text {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
